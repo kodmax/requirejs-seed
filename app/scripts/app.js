@@ -20,7 +20,7 @@ require.config({
 		'rest-backbone-driver': 'services/data-access-layer/drivers/backbone-driver',
 		'd-query': 'services/dquery/f',
 		'overscore': 'services/overscore/f',
-		'vent': 'services/event-bus/event-bus',
+		'vent': '.3rd-party/vent/dist/vent',
 		'rivets': '.3rd-party/rivets/dist/rivets',
 		'card-url': 'core/card-url/f',
 		'appbar': 'core/appbar/f',
